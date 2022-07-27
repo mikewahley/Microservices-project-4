@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![mikewahley](https://circleci.com/gh/mikewahley/Microservices-project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/mikewahley/Microservices-project-4/1/workflows/f0872360-ce61-4bdb-8199-ac66924a3064)
 
 ## Project Overview
 
