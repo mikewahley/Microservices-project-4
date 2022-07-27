@@ -14,6 +14,7 @@ kubectl run project4 --image=mikewahley/project4 --port=80 --labels app=project4
 # List kubernetes pods
 kubectl get pods
 
+
 # Step 4: 
 # Forward the container port to a host
 kubectl port-forward project4 8000:80
